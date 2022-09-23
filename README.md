@@ -1,2 +1,2 @@
 # SparkBox
-Led feature for SparkBox project https://github.com/happyhappysundays/SparkBox
+LED feature for SparkBox project https://github.com/happyhappysundays/SparkBox
